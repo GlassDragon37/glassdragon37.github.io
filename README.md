@@ -2,7 +2,7 @@
 
 3D animation 
 #    https://youtu.be/9MVeK2Z2Fms
-#      I animated the first 13 seconds of this, and created all of the o=models seen in the kitchen, along with some seen in the main resteraunt area.
+#      I animated the first 13 seconds of this, and created all of the models seen in the kitchen, except for the robot, along with some seen in the main resteraunt area.
 #    https://youtu.be/95XEkLO9Cn4
 #      I created and animated the human model.
 #    https://youtu.be/a1EtB6khw5k
