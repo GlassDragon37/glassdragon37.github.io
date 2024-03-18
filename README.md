@@ -13,3 +13,8 @@
 Unity Experience
 #    https://youtu.be/SRsCjFkSX7I
       I coded in the boxes appearing and how they interact with the environment, and the meter above the patient and how that affects the player.
+
+AI Experience
+#    https://youtu.be/pi39lidTtN0
+      I created a simple neural network that would be able to tell if the overall color of the square was light or dark.
+      
